@@ -38,7 +38,15 @@ h1{
 }
 
 .my-form{
-    background-color: red;
+    background-color: #35b8b0;
+    color: #ffffff;
+    
+}
+.my-form h2{
+    text-align: center;
+    text-shadow: 1px 1px 1px #111111;
+    height: 30px;
+    font-family: 'Montserrat', sans-serif;
 }
  /*IDS*/
  #principal{
