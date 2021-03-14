@@ -37,6 +37,9 @@ h1{
     text-align: center;
 }
 
+.my-form{
+    background-color: red;
+}
  /*IDS*/
  #principal{
      background-image: url("images/cidade.jpg");
